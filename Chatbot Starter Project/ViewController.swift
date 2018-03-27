@@ -1,9 +1,4 @@
 //
-//  ViewController.swift
-//  Chip- Hotel Booking Chatbot
-//
-//  Created by Sai Kambampati on 9/1/17.
-//  Copyright © 2017 AppCoda. All rights reserved.
 //
 
 import UIKit
